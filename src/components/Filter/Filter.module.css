@@ -1,0 +1,23 @@
+.styleInputFilter {
+  width: 250px;
+  height: 35px;
+  border: 2px solid rgb(132, 132, 243);
+  border-radius: 10px;
+  box-shadow: 1px 2px 2px 1px;
+  margin: 10px auto 0 auto;
+}
+
+.styleFindNameText {
+  text-align: center;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 40px;
+  margin: 0;
+}
+
+.wrapperFilter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

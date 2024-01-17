@@ -1,0 +1,46 @@
+.styleForm {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.styleName {
+  text-align: center;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 40px;
+  margin: 0;
+}
+
+.styleInput {
+  width: 250px;
+  height: 35px;
+  margin: 10px auto 0 auto;
+  border: 2px solid rgb(132, 132, 243);
+  border-radius: 10px;
+  box-shadow: 1px 2px 2px 1px;
+}
+
+.styleNumber {
+  text-align: center;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 40px;
+  margin: 0;
+}
+
+.styleButton {
+  width: 100px;
+  height: 55px;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+  font-style: italic;
+  color: black;
+  font-weight: 600;
+  background-color: rgb(40, 239, 40);
+  cursor: pointer;
+  box-shadow: 1px 2px 2px 1px;
+}
